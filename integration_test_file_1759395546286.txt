@@ -1,1 +1,0 @@
-This is an integration test file created via GitHub API.
